@@ -9,11 +9,12 @@ The dataset can be downloaded from the following links:<br>
 
 
 ****
-### Recognition from Web Data: A Progressive Filtering Approach (TIP 2018)
+## Our Works
+### (1) Recognition from Web Data: A Progressive Filtering Approach (TIP 2018)
 In this paper, we present a novel progressive filtering method that effectively exploits web images for various image classification tasks. Moreover, a one-to-many label assignment strategy is employed for data correction based on the confi-
 dence values of labels and the tags of images. The method performs well in a variety of image classification tasks.
 
 ****
-### Learning from Web Data using Adversarial Discriminative Neural Networks for Fine-Grained Classification (AAAI 2019)
+### (2) Learning from Web Data using Adversarial Discriminative Neural Networks for Fine-Grained Classification (AAAI 2019)
 In this work, we firstly show that there exists a gap between the web and the standard datasets, which will inhibit the training of parameters in convolutional layers when both of them are utilized. To address this problem, we present a novel multi-task learning framework that effectively exploits web images for various fine-grained classification tasks. An adversarial discriminative loss is proposed to advocate representation coherence between standard and web data.
 
