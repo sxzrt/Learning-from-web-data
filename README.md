@@ -4,9 +4,8 @@ Leveraging the abundant number of web data is a promising strategy in addressing
 ****
 ## Datasets
 We crawl web images from Google Images, Flickr and Twitter, respectively.<br>
-The dataset can be downloaded from any of the following links:<br>
-[Link 1] (Google Drive)<br>
-[Link 2](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA) (Baidu Disk)
+The dataset can be downloaded from the following links:<br>
+[Link 1](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA) (Baidu Disk)
 
 
 ****
