@@ -3,7 +3,7 @@ Leveraging the abundant number of web data is a promising strategy in addressing
 
 ****
 ## Datasets
-We crawl web images from Google Images, Flickr and Twitter, respectively.<br>
+We crawl web images from Google Images, Flickr and Twitter, respectively. <br>
 The dataset can be downloaded from the following links:<br>
 [Baidu Disk](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA)
 
@@ -15,4 +15,5 @@ dence values of labels and the tags of images. The method performs well in a var
 
 ****
 ### Learning from Web Data using Adversarial Discriminative Neural Networks for Fine-Grained Classification (AAAI 2019)
+In this work, we firstly show that there exists a gap between the web and the standard datasets, which will inhibit the training of parameters in convolutional layers when both of them are utilized. To address this problem, we present a novel multi-task learning framework that effectively exploits web images for various fine-grained classification tasks. An adversarial discriminative loss is proposed to advocate representation coherence between standard and web data.
 
