@@ -5,11 +5,14 @@ Leveraging the abundant number of web data is a promising strategy in addressing
 ## Datasets
 We crawl web images from Google Images, Flickr and Twitter, respectively.<br>
 The dataset can be downloaded from the following links:<br>
-[Link 1](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA) (Baidu Disk)
+[Baidu Disk](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA)
 
 
 ****
 ### Recognition from Web Data: A Progressive Filtering Approach (TIP 2018)
+In this paper, we present a novel progressive filtering method that effectively exploits web images for various image classification tasks. Moreover, a one-to-many label assignment strategy is employed for data correction based on the confi-
+dence values of labels and the tags of images. The method performs well in a variety of image classification tasks.
 
 ****
 ### Learning from Web Data using Adversarial Discriminative Neural Networks for Fine-Grained Classification (AAAI 2019)
+
