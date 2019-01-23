@@ -5,8 +5,9 @@ Leveraging the abundant number of web data is a promising strategy in addressing
 ## Datasets
 We crawl web images from Google Images, Flickr and Twitter, respectively. <br>
 
-![fig1](https://github.com/sxzrt/https://github.com/sxzrt/Learning-from-web-data/blob/master/images/statistic.jpg)  
-
+<div align="center">
+<img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/statistic.jpg"  width="495">  
+</div>
 
 The dataset can be downloaded from the following links:<br>
 [Baidu Disk](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA)
