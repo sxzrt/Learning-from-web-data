@@ -9,7 +9,7 @@ We crawl web images from Google Images, Flickr and Twitter, respectively. <br>
 <img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/statistic.jpg"  width="495">  
 </div>
 
-In the downloading process, We first collect images by keyword search, where keywords correspond to the category labels in the public datasets. Then, we download images from the search results for the given class. To ensure fair comparisons, Web images are near duplicates of the images in the validation or the test sets
+There are 82,684 skin disease images, 52,115 dog images, 240,096 and 76,907 food and indoor scene images from web. In the downloading process, We first collect images by keyword search, where keywords correspond to the category labels in the public datasets. Then, we download images from the search results for the given class. To ensure fair comparisons, Web images are near duplicates of the images in the validation or the test sets.
 
 
 
