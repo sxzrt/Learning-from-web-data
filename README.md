@@ -23,7 +23,7 @@ The dataset can be downloaded from the following links:<br>
 In this paper, we present a novel progressive filtering method that effectively exploits web images for various image classification tasks. Moreover, a one-to-many label assignment strategy is employed for data correction based on the confidence values of labels and the tags of images. The method performs well in a variety of image classification tasks.
 
 <div align="center">
-<img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/progressive-l.jpg">  
+<img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/progressive-l.jpg" width="800">  
 </div>
 
 
