@@ -9,6 +9,10 @@ We crawl web images from Google Images, Flickr and Twitter, respectively. <br>
 <img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/statistic.jpg"  width="495">  
 </div>
 
+In the downloading process, We first collect images by keyword search, where keywords correspond to the category labels in the public datasets. Then, we download images from the search results for the given class. To ensure fair comparisons, Web images are near duplicates of the images in the validation or the test sets
+
+
+
 The dataset can be downloaded from the following links:<br>
 [Baidu Disk](https://pan.baidu.com/s/1vJWXM-SN7p5QttZZ_nzqQA)
 
@@ -16,9 +20,11 @@ The dataset can be downloaded from the following links:<br>
 ****
 ## Our Works
 ### (1) Recognition from Web Data: A Progressive Filtering Approach (TIP 2018)
-In this paper, we present a novel progressive filtering method that effectively exploits web images for various image classification tasks. Moreover, a one-to-many label assignment strategy is employed for data correction based on the confi-
-dence values of labels and the tags of images. The method performs well in a variety of image classification tasks.
+In this paper, we present a novel progressive filtering method that effectively exploits web images for various image classification tasks. Moreover, a one-to-many label assignment strategy is employed for data correction based on the confidence values of labels and the tags of images. The method performs well in a variety of image classification tasks.
 
+<div align="center">
+<img src="https://github.com/sxzrt/Learning-from-web-data/blob/master/images/progressive-l.jpg">  
+</div>
 
 
 
